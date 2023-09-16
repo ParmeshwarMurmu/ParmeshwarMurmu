@@ -7,7 +7,7 @@ Hi 👋, I'm Parmeshwar Murmu.<br>Skilled Full Stack Web Developer proficient in
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parmeshwarmurmu&label=Profile%20views&color=0e75b6&style=flat" alt="parmeshwarmurmu" /> </p>
 
 - <a href="https://drive.google.com/file/d/1VuYpktkJfHhLJuoRFZf4bTye4sqX7hOM/view?usp=drive_link" target="_blank">Resume</a>
-- <a href="https://rahuldkjain.github.io/gh-profile-readme-generator/" target="_blank">Protfolio</a>
+- <a href="https://parmeshwarmurmu.github.io/" target="_blank">Protfolio</a>
 
 - 🌱 I’m currently learning **Node.js DataBase**
 
