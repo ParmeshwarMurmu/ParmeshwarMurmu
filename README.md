@@ -1,30 +1,17 @@
-<h1 align="center">Hi 👋, I'm Omkar Walavalkar</h1>
-<h2><p align="center">
-  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?color=FFFF&center=true&lines=Full+Stack+Web+Developer;1200%2B+Hours+of+Coding+Experience;Data+Structures+And+Algorithms"></a>
-</p>
- <br/></h2>
+<h1 >Hi 👋, I'm Parmeshwar Murmu</h1>
+
+ # 💫 About Me:
+Hi 👋, I'm Parmeshwar Murmu.<br>Skilled Full Stack Web Developer proficient in MERN stack. Demonstrated expertise in HTML, CSS, JavaScript, React, Node.js, and MongoDB. Hands-on experience in executing projects, emphasizing attention to detail and problem-solving abilities. A collaborative team player committed to delivering impactful solutions.
  
- <h3 align="center">A passionate full-stack web developer from India who loves to build amazing projects and work in a team.</h3>
-<h3 align="center">I dream to get recognized globally by something that I can do for my society. you can also visit.  <a href="https://omkarsw2.github.io/">
-  <br />  <br />  
-        <img align="center" src="https://img.shields.io/badge/Portfolio-159202?style=for-the-badge&logo=ionic&logoColor=white" alt="https://omkarsw2.github.io/" /></h3>
+
 
 <!----------------------------------- Profile View Section ------------------------------------>
 
-<p align="left">
-    <a href="https://github.com/omkarSw2">
-        <img src="https://komarev.com/ghpvc/?username=omkarsw2&label=Profile%20views&color=0e75b6&style=flat" alt="omkarsw2" />
-    </a>
-    <a href="https://github.com/omkarSw2?tab=followers">
-        <img src="https://img.shields.io/github/followers/omkarsw2?label=Followers&style=social" alt="followers-count">
-    </a>
-</p>
-  
-<br>
 
 
 
-<img src="https://imgs.search.brave.com/GIZVpntD8nBghn1rIX7k2fuiuNRVav8AVZ88d-MPnvg/rs:fit:1200:675:1/g:ce/aHR0cHM6Ly93d3cu/YmFjYW5jeXRlY2hu/b2xvZ3kuY29tL2lt/Zy9tZXJuLWltZ3Mv/YmFubmVyMS5qcGc"/>
+
+
 <h2><i>Tech Stack</i></h2>
 
 <p>
@@ -53,27 +40,27 @@
 
 <p align="left">
     <a href="https://www.linkedin.com/in/omkar-walavalkar-385b18251/">
-        <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=0077B5&labelColor=black" alt="https://www.linkedin.com/in/omkar-walavalkar-385b18251/" />
+        <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=0077B5&labelColor=black" alt="https://www.linkedin.com/in/parmeshwar-murmu-086a9b184/" />
     </a>
     <a href="https://twitter.com/omkar21143">
-        <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=1DA1F2&labelColor=black" alt="https://twitter.com/omkar21143" />
+        <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=1DA1F2&labelColor=black" alt="" />
     </a>
     <a href="https://omkarsw2.github.io/">
-        <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://omkarsw2.github.io/" />
+        <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://parmeshwarmurmu.github.io/" />
+    </a>
   
 </p>
 <br>
 
 <!----------------------------------- GitHub Stats Section ------------------------------------>
 
-<h2><i>My GitHub Stats</i></h2>
+# 📊 GitHub Stats:
 
-<p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=omkarSw2&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark" alt="vivekgoswami934" height="139" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=omkarSw2&layout=compact&exclude_repo=Lybrate-Website-Clone-Version-2.0,Lybrate-Website-Clone,Adidas-Clone&hide=Shell&border_radius=0&theme=dark" alt="vivekgoswami934" height="139" />
-    
-</p> 
-  <img   src="https://streak-stats.demolab.com/?user=omkarSw2&theme=dark&github-readme-streak-stats.herokuapp.com"
-              alt="omkar-states"/>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=parmeshwarmurmu&show_icons=true&locale=en&layout=compact" alt="top Languages" /></p>
 
-<br>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=parmeshwarmurmu&show_icons=true&locale=en" alt="Stats" /></p>
+
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parmeshwarmurmu&" alt="Longest Strak" /></p>
+
+
