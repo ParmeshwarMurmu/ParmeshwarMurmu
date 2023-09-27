@@ -11,6 +11,18 @@ Jharkhand, BrindaBan Pur, Disct - East Singhbhum
 - <a href="https://drive.google.com/file/d/1VuYpktkJfHhLJuoRFZf4bTye4sqX7hOM/view?usp=drive_link" target="_blank">Resume</a>
 - <a href="https://parmeshwarmurmu.github.io/" target="_blank">Protfolio</a>
 
+<div> 
+  <a href="mailto:murmuparmeshwar05@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/parmeshwar-murmu-086a9b184/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://parmeshwarmurmu.github.io/" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+</div>
+
 - 🌱 I’m currently learning **Node.js DataBase**
 
 - 📫 How to reach me **murmuparmeshwar05@gmail.com**
