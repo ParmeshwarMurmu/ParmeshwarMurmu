@@ -6,6 +6,8 @@ Hi 👋, I'm Parmeshwar Murmu.<br>Skilled Full Stack Web Developer proficient in
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ54NdKIS2CwDNUsfvU6N3TyfCeL0PhmbF1Jv9IPhs5-lVR6sGTlv2g_l7t8xZYGp22vdA&usqp=CAU" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parmeshwarmurmu&label=Profile%20views&color=0e75b6&style=flat" alt="parmeshwarmurmu" /> </p>
 
+# Address:
+Jharkhand, BrindaBan Pur, Disct - East Singhbhum
 - <a href="https://drive.google.com/file/d/1VuYpktkJfHhLJuoRFZf4bTye4sqX7hOM/view?usp=drive_link" target="_blank">Resume</a>
 - <a href="https://parmeshwarmurmu.github.io/" target="_blank">Protfolio</a>
 
