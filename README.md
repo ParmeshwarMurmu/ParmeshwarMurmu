@@ -4,8 +4,12 @@
 # 💫 About Me:
 Hi 👋, I'm Parmeshwar Murmu.<br>Skilled Full Stack Web Developer proficient in MERN stack. Demonstrated expertise in HTML, CSS, JavaScript, React, Node.js, and MongoDB. Hands-on experience in executing projects, emphasizing attention to detail and problem-solving abilities. A collaborative team player committed to delivering impactful solutions.
 
-<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ54NdKIS2CwDNUsfvU6N3TyfCeL0PhmbF1Jv9IPhs5-lVR6sGTlv2g_l7t8xZYGp22vdA&usqp=CAU" />
+
+<img align="right" alt="Coding" width="400" src="https://efos.in/wp-content/uploads/2022/06/full-stack-training-1-1200x675.jpg" />
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parmeshwarmurmu&label=Profile%20views&color=0e75b6&style=flat" alt="parmeshwarmurmu" /> </p>
+
 
 # Address:
 Jharkhand, BrindaBan Pur, Disct - East Singhbhum
@@ -14,11 +18,15 @@ Jharkhand, BrindaBan Pur, Disct - East Singhbhum
 
 
 
+
+   <img align="right" alt="Coding" width="400" src="https://funtoken.io/wp-content/uploads/2023/02/img-careers-developer@2x.jpg" />
 - 🌱 I’m currently learning **Node.js DataBase**
 
 - 📫 How to reach me **murmuparmeshwar05@gmail.com**
 
 - ⚡ Fun fact **I Think i am funny**
+
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parmeshwar-murmu-086a9b184/) 
