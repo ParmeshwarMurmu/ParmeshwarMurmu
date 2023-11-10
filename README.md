@@ -13,7 +13,7 @@ Hi 👋, I'm Parmeshwar Murmu.<br>Skilled Full Stack Web Developer proficient in
 
 # Address:
 Jharkhand, BrindaBan Pur, Disct - East Singhbhum
-- <a href="https://drive.google.com/file/d/1VuYpktkJfHhLJuoRFZf4bTye4sqX7hOM/view?usp=drive_link" target="_blank">Resume</a>
+- <a href="https://drive.google.com/file/d/137cjVUnXbYQ9SzVvXjTOAgEe2HNeHJKJ/view?usp=drive_link" target="_blank">Resume</a>
 - <a href="https://parmeshwarmurmu.github.io/" target="_blank">Protfolio</a>
 
 
